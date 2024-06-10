@@ -1,2 +1,11 @@
-# votacao-secitec-atualizada
-Atualizei o projeto da Votação para atender às funcionalidades exigidas pelo Professor Fabiano Taguchi para nosso curso Secitec.
+<div align="center">
+
+# Projeto-Votacao-Secitec
+
+<img src="secitec.png" alt="Logo do Secitec">
+
+### Projeto a ser avaliado pelo Professor Fabiano Taguchi
+
+Este é um projeto de votação, atendendo aos requisitos solicitados pelo professor no ambiente do Secitec.
+
+</div>
